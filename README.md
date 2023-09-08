@@ -1,4 +1,6 @@
-# Python-Project-
+# Python-Project- 
+Project - Rock, Paper , Scissor
+
 Here's a description of how the project could be implemented:
 
 User Interface:
